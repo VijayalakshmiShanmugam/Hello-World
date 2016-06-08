@@ -1,0 +1,4 @@
+x='111.33'
+y=int(float(x))
+print(y)
+print(type(y)) #used to printing the type of y
